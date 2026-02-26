@@ -1,0 +1,35 @@
+{
+  "name": "claude-toolkit",
+  "owner": {
+    "name": "local",
+    "email": ""
+  },
+  "metadata": {
+    "description": "Independent agent/skill/command toolkit"
+  },
+  "plugins": [
+    {
+      "name": "claude-toolkit",
+      "source": "./",
+      "description": "Independent agent/skill/command toolkit with agents, skills, and commands",
+      "license": "MIT",
+      "keywords": [
+        "agents",
+        "skills",
+        "commands",
+        "tdd",
+        "code-review",
+        "security"
+      ],
+      "category": "workflow",
+      "tags": [
+        "agents",
+        "skills",
+        "commands",
+        "tdd",
+        "code-review",
+        "security"
+      ]
+    }
+  ]
+}
